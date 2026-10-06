@@ -5,7 +5,7 @@ A static research project page for **Axiom-0: Hierarchical Self-Refinement for V
 ## Included
 
 - Responsive English project page, with no build step or external front-end dependencies.
-- The original, unmodified v15 technical report PDF.
+- The original, unmodified v1 technical report PDF.
 - Six selected side-by-side comparison videos, compressed for web delivery with H.264, original resolution and playback timing preserved.
 - Three accessible video tabs: Atomic-Seen (2), Composite-Seen (2), Composite-Unseen (2).
 - Official 4Axiom logo extracted unchanged from the supplied report; complete 18-model comparison, expanded by default.
