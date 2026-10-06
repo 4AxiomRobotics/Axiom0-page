@@ -1,0 +1,50 @@
+[
+  {
+    "file": "SlideDishwasherRack_seed659.mp4",
+    "stem": "SlideDishwasherRack_seed659",
+    "group": "atomic-seen",
+    "task": "Slide the dishwasher rack in",
+    "seed": "659",
+    "duration": 11.3
+  },
+  {
+    "file": "PickPlaceCounterToCabinet_seed407.mp4",
+    "stem": "PickPlaceCounterToCabinet_seed407",
+    "group": "atomic-seen",
+    "task": "Pick Place Counter To Cabinet",
+    "seed": "407",
+    "duration": 18.8
+  },
+  {
+    "file": "SearingMeat_seed1357.mp4",
+    "stem": "SearingMeat_seed1357",
+    "group": "composite-seen",
+    "task": "Searing Meat",
+    "seed": "1357",
+    "duration": 108.8
+  },
+  {
+    "file": "SetUpCuttingStation_seed1407.mp4",
+    "stem": "SetUpCuttingStation_seed1407",
+    "group": "composite-seen",
+    "task": "Set Up Cutting Station",
+    "seed": "1407",
+    "duration": 60.0
+  },
+  {
+    "file": "CategorizeCondiments_seed1857.mp4",
+    "stem": "CategorizeCondiments_seed1857",
+    "group": "composite-unseen",
+    "task": "Categorize Condiments",
+    "seed": "1857",
+    "duration": 41.3
+  },
+  {
+    "file": "WaffleReheat_seed2359.mp4",
+    "stem": "WaffleReheat_seed2359",
+    "group": "composite-unseen",
+    "task": "Waffle Reheat",
+    "seed": "2359",
+    "duration": 101.3
+  }
+]
